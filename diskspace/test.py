@@ -1,4 +1,5 @@
 import unittest
+import subprocess
 from diskspace import *
 
 class DiskspaceTest(unittest.TestCase):
